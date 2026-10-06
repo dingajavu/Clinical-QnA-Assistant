@@ -1,0 +1,9 @@
+# created by virtualenv automatically
+.venv/
+.idea/
+gendocs_file_watchers.xml
+.env
+.chroma_store/
+chroma.sqlite3
+src/__pycahe__
+dataset/
