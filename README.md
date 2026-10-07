@@ -57,7 +57,7 @@ flowchart LR
 
 5. **Run ingestion**:
    ```
-   python src\ingest.py
+   python src/ingest.py
    ```
    The process is able to handle interruption (e.g. a rate limit), re-running it resumes from where it left off instead of re-embedding everything.
 
